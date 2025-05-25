@@ -1,0 +1,11 @@
+{
+  "tools": [
+    "Visual Studio Code",
+    "AWS",
+    "Tailwind Css",
+    "Figma",
+    "Adobe Photoshop",
+    "Adobe Illustrator"
+  ],
+  "etc": ["Git", "GitHub", "Discord", "Notion"]
+}

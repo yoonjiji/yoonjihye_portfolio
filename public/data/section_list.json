@@ -1,0 +1,29 @@
+[
+  {
+    "id": "about",
+    "title": "About me",
+    "description": "",
+    "children": [{ "component": "Majors2" }, { "component": "Jobs2" }]
+  },
+  {
+    "id": "skill",
+    "title": "My Skills",
+    "description": "",
+    "children": [
+      {
+        "component": "Skills2",
+        "children": [
+          { "component": "Coding2" },
+          { "component": "Article2", "props": { "type": "Tools" } },
+          { "component": "Article2", "props": { "type": "Etc" } }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "work",
+    "title": "My work",
+    "description": "Projects",
+    "children": [{ "component": "Categories2" }, { "component": "Projects2" }]
+  }
+]

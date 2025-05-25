@@ -1,2 +1,1 @@
-# yoonjihye_portfolio
-윤지혜 포트폴리오
+배포 주소 : http://yoon-portfolio-ts.s3-website.ap-northeast-2.amazonaws.com

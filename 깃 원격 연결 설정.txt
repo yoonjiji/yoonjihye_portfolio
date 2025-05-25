@@ -1,0 +1,13 @@
+git remote -v       // 현재 연결된 깃 원격저장소 확인
+ls -a               // 숨긴 파일까지 모두 보여주기
+rmdir .git          // 원격 삭제하기 위함
+git init            // 깃이랑 연동할 수 있는 폴더 생성 (.git)
+=> 삭제하고 로컬에서 깃을 생성하면 (main)이 아니고 (master)
+=> 이상태에서 깃에 push하면 충돌남!!
+
+git branch -M main  // 깃 main으로 바꿔주기 작업
+git remote -v       // 아직 연결 안됨~!
+git remote add origin [나의 repository 주소!!]
+git remote -v       // 나의 원격저장소 보일거임
+git remote set url origin https://토큰정보@github.com/yoonjiji/yoon-portfolio-ts.git
+// 토큰정보 넣기

@@ -1,0 +1,16 @@
+[
+  {
+    "img": "images/projects/casetibuy.png",
+    "alt": "casetibuy",
+    "title": "casetibuy",
+    "description": "4인 팀 프로젝트 / React, Swiper, TailWind, MySQL / 역할) 메인 웹페이지: 슬라이드 배너, 상품 리스트 출력, 장바구니 페이지: 개별/전체 선택 및 해제, 총 가격 실시간 계산",
+    "link": "http://casetibuy-project.s3-website.ap-northeast-2.amazonaws.com/"
+  },
+  {
+    "img": "images/projects/noldabam.png",
+    "alt": "noldabam",
+    "title": "noldabam",
+    "description": "4인 팀 프로젝트 /  숙박과 공연 예약 통합 플랫폼 기획&개발 / React, MySQL, Firebase / 역할)로그인, 회원가입, 아이디/비밀번호 찾기 및 마이페이지 UI 및 기능 구현",
+    "link": "http://noldabam.s3-website.ap-northeast-2.amazonaws.com/"
+  }
+]
